@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+h1 {
+	color: blue;
+}
+
+
+.settinglink {
+	float: right;
+	margin-right: 40px
+}
+
+
+table {
+	margin-top: 50px;
+}

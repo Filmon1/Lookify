@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+h1 {
+	text-align: center;
+	padding-top: 80px;
+	text-shadow: 2px 2px #FFA500;
+}
+
+a {
+    margin-left: 48%;
+    margin-top: 90px;
+}
